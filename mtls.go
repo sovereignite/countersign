@@ -4,7 +4,7 @@
 
 // Package mtls constructs TLS configurations that require mutually
 // authenticated TLS 1.3 connections and verified SPIFFE identities.
-package mtls
+package countersign
 
 import (
 	"bytes"
